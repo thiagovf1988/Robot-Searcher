@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/mprotagonist/static/css/main.50b549df.chunk.css",
-    "main.js": "/mprotagonist/static/js/main.9800d305.chunk.js",
-    "main.js.map": "/mprotagonist/static/js/main.9800d305.chunk.js.map",
-    "runtime-main.js": "/mprotagonist/static/js/runtime-main.69273d7e.js",
-    "runtime-main.js.map": "/mprotagonist/static/js/runtime-main.69273d7e.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/mprotagonist/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.515ff164.chunk.js": "/mprotagonist/static/js/2.515ff164.chunk.js",
-    "static/js/2.515ff164.chunk.js.map": "/mprotagonist/static/js/2.515ff164.chunk.js.map",
-    "index.html": "/mprotagonist/index.html",
-    "precache-manifest.978ce46c6514cbe2c7c88eee9535d2f3.js": "/mprotagonist/precache-manifest.978ce46c6514cbe2c7c88eee9535d2f3.js",
-    "service-worker.js": "/mprotagonist/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/mprotagonist/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.50b549df.chunk.css.map": "/mprotagonist/static/css/main.50b549df.chunk.css.map",
-    "static/js/2.515ff164.chunk.js.LICENSE.txt": "/mprotagonist/static/js/2.515ff164.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/mprotagonist/static/media/Pokemon Solid.4197aed6.woff"
+    "main.css": "/Robot-Searcher/static/css/main.11f73ca5.chunk.css",
+    "main.js": "/Robot-Searcher/static/js/main.c1df2bfb.chunk.js",
+    "main.js.map": "/Robot-Searcher/static/js/main.c1df2bfb.chunk.js.map",
+    "runtime-main.js": "/Robot-Searcher/static/js/runtime-main.1ef36b2f.js",
+    "runtime-main.js.map": "/Robot-Searcher/static/js/runtime-main.1ef36b2f.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Robot-Searcher/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.515ff164.chunk.js": "/Robot-Searcher/static/js/2.515ff164.chunk.js",
+    "static/js/2.515ff164.chunk.js.map": "/Robot-Searcher/static/js/2.515ff164.chunk.js.map",
+    "index.html": "/Robot-Searcher/index.html",
+    "precache-manifest.11aed1b544386babda180f169e39d3cc.js": "/Robot-Searcher/precache-manifest.11aed1b544386babda180f169e39d3cc.js",
+    "service-worker.js": "/Robot-Searcher/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Robot-Searcher/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.11f73ca5.chunk.css.map": "/Robot-Searcher/static/css/main.11f73ca5.chunk.css.map",
+    "static/js/2.515ff164.chunk.js.LICENSE.txt": "/Robot-Searcher/static/js/2.515ff164.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robot-Searcher/static/media/Pokemon Solid.4197aed6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.69273d7e.js",
+    "static/js/runtime-main.1ef36b2f.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.515ff164.chunk.js",
-    "static/css/main.50b549df.chunk.css",
-    "static/js/main.9800d305.chunk.js"
+    "static/css/main.11f73ca5.chunk.css",
+    "static/js/main.c1df2bfb.chunk.js"
   ]
 }
