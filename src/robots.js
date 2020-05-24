@@ -47,7 +47,7 @@ export const robots = [
     id: 8,
     name: "Janne Beaut",
     username: "Beauty",
-    email: "beautyo@pie.comk",
+    email: "beautyo@pie.us",
   },
 
   {
